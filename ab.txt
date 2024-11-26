@@ -1,0 +1,11 @@
+A = Premature Atrial Contraction (abnormal) - Early heartbeats originating from the atria.
+F = Fusion of Paced (abnormal) - Beats resulting from the fusion of a paced beat and a spontaneous beat.
+LBB = Left Bundle Branch Block (abnormal) - A delay or blockage in the left bundle branch of the heart's electrical system.
+M = Missed Classifiable Beat - Beats that cannot be classified due to missing data.
+N = Normal Beat - A regular heartbeat with normal rhythm.
+Q = Unclassifiable Beat (abnormal) - Beats that cannot be classified due to ambiguous characteristics.
+RBB = Right Bundle Branch Block (abnormal) - A delay or blockage in the right bundle branch of the heart's electrical system.
+S = Supraventricular Premature Beat (abnormal) - Early heartbeats originating from above the ventricles.
+V = Premature Ventricular Contraction (PVC) (abnormal) - Early heartbeats originating from the ventricles.
+VF = Ventricular Fibrillation (abnormal) - A life-threatening condition with chaotic electrical activity in the ventricles.
+
